@@ -48,6 +48,11 @@ Visualisation avec drapeaux : Génération d'un graphique où chaque pays est re
 
 ## 📈 Résultats clés
 
+![Corrélation PIB/médailles](IMG_9179.png)
+
+*Figure 1 : Corrélation PIB/médailles*
+
+
 Les pays avec un PIB élevé tendent à remporter plus de médailles, bien que des exceptions notables existent.
 Certains pays à faible population se distinguent par un ratio médailles/population exceptionnel, révélant une grande efficacité sportive.
 Les visualisations permettent de repérer rapidement les surperformances et sous-performances relatives des pays.
