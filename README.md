@@ -46,13 +46,13 @@ Le projet se concentre sur :
 Corrélation PIB/médailles : Analyse du lien entre le produit intérieur brut (PIB) d'un pays et le nombre de médailles remportées.
 Visualisation avec drapeaux : Génération d'un graphique où chaque pays est représenté par son drapeau.
 
-📈 Résultats clés
+## 📈 Résultats clés
 
 Les pays avec un PIB élevé tendent à remporter plus de médailles, bien que des exceptions notables existent.
 Certains pays à faible population se distinguent par un ratio médailles/population exceptionnel, révélant une grande efficacité sportive.
 Les visualisations permettent de repérer rapidement les surperformances et sous-performances relatives des pays.
 
-🔗 Ressources
+## 🔗 Ressources
 
 Données sur les médailles des JO : https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
 Données du PIB par pays :  "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
